@@ -1,4 +1,4 @@
-# GroundWaterPredictor
+# Ground Water Predictor System
 
 A web application designed to predict groundwater levels using historical data. This tool aims to assist in water resource management and planning by providing forecasts based on past patterns.
 
@@ -35,10 +35,10 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/md-owais9956/groundWaterPredictor.git
+   https://github.com/anushka24mim10172-tech/groundwater-predictor-system
 Navigate to the project directory:
 
 bash
 Copy code
-cd groundWaterPredictor
+cd groundWater-Predictor-System
 Open index.html in your preferred web browser.
